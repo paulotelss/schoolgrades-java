@@ -59,3 +59,5 @@ Status: Aprovado
 
 - `Responsabilidades Separadas`: O código é dividido em três classes, cada uma com uma responsabilidade clara: `Main` para o controle do fluxo do programa, `GradeCalculator` para cálculos e conversão de notas, e `ApprovalChecker` para verificar a aprovação.
 - `Modularidade e Clareza`: Cada classe tem métodos específicos que realizam tarefas bem definidas, facilitando a leitura.  Isso também permite que você altere ou adicione funcionalidades com impacto mínimo em outras partes do código.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
